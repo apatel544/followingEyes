@@ -8,7 +8,7 @@ I plan to implement further functionality such as being able to toggle the eyes 
     
    1. You need to clone to repository and open the index.html file.
     
-    or
+   or
     
    2. You can navigate to: [Follow Eyes App](https://github.com/apatel544/followingEyes)
     

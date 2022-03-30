@@ -6,11 +6,11 @@ I plan to implement further functionality such as being able to toggle the eyes 
 
 ## How To Get Open on your local
     
-    1. You need to clone to repository and open the index.html file.
+   1. You need to clone to repository and open the index.html file.
     
     or
     
-    2. You can navigate to: https://github.com/apatel544/followingEyes
+   2. You can navigate to: [Follow Eyes App](https://github.com/apatel544/followingEyes)
     
 
 

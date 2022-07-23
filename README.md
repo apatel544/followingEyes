@@ -10,7 +10,7 @@ I plan to implement further functionality such as being able to toggle the eyes 
     
    or
     
-   2. You can navigate to: [Follow Eyes App](https://github.com/apatel544/followingEyes)
+   2. You can navigate to: [Follow Eyes App](https://apatel544.github.io/followingEyes/)
     
 
 
